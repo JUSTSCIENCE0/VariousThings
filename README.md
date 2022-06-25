@@ -1,2 +1,2 @@
-# WarriosThings
+# VariousThings
 Разные мелкие проекты, созданные за время учебы
